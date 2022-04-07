@@ -230,7 +230,7 @@ if __name__ == "__main__":
  
 ## OUTPUT
 
-![output](https://user-images.githubusercontent.com/102652887/162021502-9adc7ea7-3810-45b5-9e2c-ff3caafa714a.jpeg)
+![output](https://github.com/20004426-venkatesh/aiagent/blob/main/WhatsApp%20Image%202022-04-07%20at%207.30.07%20PM.jpeg)
 
 ## RESULT
 Thus, an AI agent is developed.
